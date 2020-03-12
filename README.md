@@ -110,3 +110,41 @@ _For your project this week, you will demonstrate proficiency by working with a 
 - [x] [Build Week 1 - Build a multi-page Marketing Wbsite]('https://github.com/med-cab1/landing-page-2')
 
 __________________________
+# **UNIT 2**
+
+## Web Applications
+_This unit is all about exposing you to applying your Javascript knowledge to the Document Object Model and creating rich Javascript user interfaces._
+
+__________________________
+
+### DOM I
+
+_Now that we can build a basic static web page with HTML and CSS, we need to add functionality to the page. The first step in building vibrant dynamic web pages and applications is learning about the DOM. What it is, how it affects our page, and how to access and manipulate it. DOM manipulation is at the core of every framework and before we start using frameworks we need to understand the DOM._
+
+- [ ] [Project I - DOM Manipulation Challenge]('https://github.com/rockyFierro/Unit2_dom_I/tree/rocky-fierro')
+
+### DOM II
+
+_Events are the way we users interact with the page. Any time there is some interaction by way of a mouse, keyboard, etc., the DOM creates and propagates an event object. This event object carries information about the event so that it may be handled at any point up the tree from the point of origin._
+
+- [ ] [Project I - Event Exploration]('https://github.com/LambdaSchool/DOM-II')_clone this and start working it!_
+
+### Components I
+
+_As we build larger and more feature rich web pages, we may notice a trend in our code; elements that are essentially using the same functionality and styling with minor differences in the data they present. In an effort to keep our code readable, reusable, and most of all DRY, we can build on these repeating patterns and create components. Components are reusable pieces of code that can be used to build elements sharing functionality and styling. Components are the heart of any dynamic web application and JavaScript framework._
+
+- [ ] [Project I - Newsfeed]('https://github.com/LambdaSchool/Newsfeed-Components')_clone this and start working it!_
+
+### Components II
+
+_Now that we have some understanding of what a component is, we can learn to utilize asynchronous JavaScript and Promises to make HTTP requests and get data from a server._
+
+- [ ] [Project I - Github User Card]('https://learn.lambdaschool.com/web2/module/recd6kDKS6eMapSRq')_clone this and start working it!_
+
+### Sprint Challenge
+
+_This challenge covers DOM I, DOM II, Components I, Components II._
+
+- [ ] [Sprint Challenge - Applied Javascript Challenge]('https://github.com/LambdaSchool/Sprint-Challenge-Applied-Javascript')_clone this and start working it!(next sunday)_
+
+__________________________
